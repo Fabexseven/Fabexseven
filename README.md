@@ -61,10 +61,6 @@ PIC microcontroller >>>>>>>
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/fabiokrein) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/fabiokrein)
 
 # 📊 GitHub Stats:
-<img src="https://github-readme-stats-wheat-two-53.vercel.app/api?username=lauragrassig&theme=neon&hide_border=false&include_all_commits=false&count_private=false"  width="364px" />                    <img src="https://github-readme-streak-stats.herokuapp.com/?user=lauragrassig&theme=neon&hide_border=false"  width="400px" />
-
-
-
-![](https://github-readme-stats-wheat-two-53.vercel.app/api/top-langs/?username=fabexseven&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-![](https://github-readme-stats.vercel.app/api?username=fabexseven&show_icons=true&theme=transparent)
+<img src="https://github-readme-stats-wheat-two-53.vercel.app/api?username=fabexseven&theme=neon&hide_border=false&include_all_commits=false&count_private=false"  width="364px" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=fabexseven&theme=neon&hide_border=false"  width="400px" />
+<img src="https://github-readme-stats-wheat-two-53.vercel.app/api/top-langs/?username=fabexseven&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="400px" />
