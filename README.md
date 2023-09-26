@@ -61,6 +61,10 @@ PIC microcontroller >>>>>>>
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/fabiokrein) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/fabiokrein)
 
 # 📊 GitHub Stats:
+ ![Snake animation](https://github.com/Fabexseven/Fabexseven/blob/output/github-contribution-grid-snake.svg)
+ 
 <img src="https://github-readme-stats-wheat-two-53.vercel.app/api?username=fabexseven&theme=neon&hide_border=false&include_all_commits=false&count_private=false"  width="364px" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=fabexseven&theme=neon&hide_border=false"  width="400px" />
 <img src="https://github-readme-stats-wheat-two-53.vercel.app/api/top-langs/?username=fabexseven&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="400px" />
+
+
